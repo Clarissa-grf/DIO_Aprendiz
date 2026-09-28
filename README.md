@@ -7,7 +7,7 @@ Desafios da DIO
   Criar uma base de conhecimento sólida com regras atualizadas da ABNT para guiar a análise da ferramenta.
   
 # Curadoria de fontes:
-  https://www.youtube.com/watch?v=MpNWft8-9mA
+  https://www.youtube.com/watch?v=MpNWft8-9mA 
   https://www.youtube.com/watch?v=Ps8UhU9vXfQ
   https://tcctranquilo.com.br/formato-abnt-como-utilizar-no-tcc/
   https://portal.ifce.edu.br/documents/18124/Manual_de_normalizacao_de_trabalhos_acad%C3%AAmicos.pdf
