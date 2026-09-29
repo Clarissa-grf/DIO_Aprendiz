@@ -1,15 +1,10 @@
 # DIO_Aprendiz
 Desafios da DIO
 # Contexto e Objetivo:
-  O tema escolhido para o caderno foi a "Criação de um organizador e revisor para verificação a lógica, o texto e realizar o cruzamento de referências e citações de um trabalho de conclusão de curso".  
-  
-  O Notebook nasce da necessidade de apoiar na verificação da conformidade principalmente das referências e citações em minha tese de doutorado.  
-  
-  Explorar a capacidade do NotebookLM de realizar cruzamentos lógicos em textos longos.  
-  
-  Criar uma base de conhecimento sólida com regras atualizadas da ABNT para guiar a análise da ferramenta.  
-  
-  
+  O tema escolhido para o caderno foi a "Criação de um organizador e revisor para verificação a lógica, o texto e realizar o cruzamento de referências e citações de um trabalho de conclusão de curso". <br>
+  O Notebook nasce da necessidade de apoiar na verificação da conformidade principalmente das referências e citações em minha tese de doutorado. <br>
+  Explorar a capacidade do NotebookLM de realizar cruzamentos lógicos em textos longos. <br>
+  Criar uma base de conhecimento sólida com regras atualizadas da ABNT para guiar a análise da ferramenta.<br>
 # Curadoria de fontes:
   https://www.youtube.com/watch?v=MpNWft8-9mA   
   
