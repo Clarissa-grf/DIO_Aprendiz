@@ -11,9 +11,11 @@ Desafios da DIO
   
   
 # Curadoria de fontes:
-  https://www.youtube.com/watch?v=MpNWft8-9mA 
-  https://www.youtube.com/watch?v=Ps8UhU9vXfQ
-  https://tcctranquilo.com.br/formato-abnt-como-utilizar-no-tcc/
+  https://www.youtube.com/watch?v=MpNWft8-9mA   
+  
+  https://www.youtube.com/watch?v=Ps8UhU9vXfQ  
+  
+  https://tcctranquilo.com.br/formato-abnt-como-utilizar-no-tcc/ <br>
   https://portal.ifce.edu.br/documents/18124/Manual_de_normalizacao_de_trabalhos_acad%C3%AAmicos.pdf
   https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/repositorio-de-arquivos/formato_de_dissertacoes_e_teses-inpe.pdf/@@download/file/Formato_de_dissertacoes_e_teses-INPE.pdf
   https://www.overleaf.com/latex/templates/modeloinpe-2022/bytpkdzvmyqk
