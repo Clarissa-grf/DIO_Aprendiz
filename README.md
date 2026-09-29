@@ -35,8 +35,8 @@ Exemplos de prompts: <br>
 
 # Miniguia de estudos
 Resumo estruturado do assunto: <br>
-    O que a IA PODE revisar: Cruzamento de dados (citação vs. referência); presença de elementos obrigatórios na string de texto da referência (Autor, Título, Ano, Cidade); coerência textual, ortografia e fluidez; transição de parágrafos. <br>
-    O que a IA NÃO PODE revisar: Margens (3cm/2cm), espaçamento entrelinhas, recuo de parágrafo (1,25cm), fontes (Arial/Times), paginação exata. <br>
+   <br> O que a IA PODE revisar: Cruzamento de dados (citação vs. referência); presença de elementos obrigatórios na string de texto da referência (Autor, Título, Ano, Cidade); coerência textual, ortografia e fluidez; transição de parágrafos. <br>
+   <br>  O que a IA NÃO PODE revisar: Margens (3cm/2cm), espaçamento entrelinhas, recuo de parágrafo (1,25cm), fontes (Arial/Times), paginação exata. <br>
     
 Glossário: <br>
     Citação Direta: Transcrição literal de parte da obra do autor consultado. (Pode ser curta, até 3 linhas, ou longa, com recuo de 4cm). <br>
@@ -47,9 +47,9 @@ Glossário: <br>
     <br>
     
 Prompts reutilizáveis: <br>
-  <br>  Para Validação de Referências (Conferência de Estrutura): <br>
+  <br>  Para Validação de Referências: <br>
         "Análise a seção 'Referências' do meu documento. Com base no Manual da ABNT anexado, verifique a estrutura de texto de cada referência. Liste aquelas que estão com a formatação de texto incorreta (ex: ausência de cidade ou editora) e sugira a correção." <br>
-   <br> Para Cruzamento de Dados (O mais útil): <br>
+   <br> Para Cruzamento de Dados: <br>
         "Cruze as citações do corpo do texto com a bibliografia final. Liste: 1. Quem foi citado mas não referenciado; 2. Quem foi referenciado mas não foi citado no texto." <br>
    <br> Para Clareza e Coesão: <br>
         "Leia o Capítulo 2. Identifique frases que estejam excessivamente longas (mais de 4 linhas) ou parágrafos confusos. Sugira reescritas para tornar a linguagem mais acadêmica, formal e direta, mantendo o sentido original."
