@@ -46,10 +46,10 @@ Glossário: <br>
     Engenharia de prompt: Como criar ou descrever o que se pede para IA de forma a gerar respostas assertivas e satisfatórias. <br>
     <br>
     
-Prompts reutilizáveis:<br>
+Prompts reutilizáveis: <br>
   <br>  Para Validação de Referências (Conferência de Estrutura): <br>
         "Análise a seção 'Referências' do meu documento. Com base no Manual da ABNT anexado, verifique a estrutura de texto de cada referência. Liste aquelas que estão com a formatação de texto incorreta (ex: ausência de cidade ou editora) e sugira a correção." <br>
-    Para Cruzamento de Dados (O mais útil): <br>
+   <br> Para Cruzamento de Dados (O mais útil): <br>
         "Cruze as citações do corpo do texto com a bibliografia final. Liste: 1. Quem foi citado mas não referenciado; 2. Quem foi referenciado mas não foi citado no texto." <br>
-    Para Clareza e Coesão: <br>
+   <br> Para Clareza e Coesão: <br>
         "Leia o Capítulo 2. Identifique frases que estejam excessivamente longas (mais de 4 linhas) ou parágrafos confusos. Sugira reescritas para tornar a linguagem mais acadêmica, formal e direta, mantendo o sentido original."
