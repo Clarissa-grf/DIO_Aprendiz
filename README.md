@@ -47,7 +47,7 @@ Glossário: <br>
     <br>
     
 Prompts reutilizáveis:<br>
-    Para Validação de Referências (Conferência de Estrutura): <br>
+  <br>  Para Validação de Referências (Conferência de Estrutura): <br>
         "Análise a seção 'Referências' do meu documento. Com base no Manual da ABNT anexado, verifique a estrutura de texto de cada referência. Liste aquelas que estão com a formatação de texto incorreta (ex: ausência de cidade ou editora) e sugira a correção." <br>
     Para Cruzamento de Dados (O mais útil): <br>
         "Cruze as citações do corpo do texto com a bibliografia final. Liste: 1. Quem foi citado mas não referenciado; 2. Quem foi referenciado mas não foi citado no texto." <br>
