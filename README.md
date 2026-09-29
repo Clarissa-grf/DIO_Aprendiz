@@ -34,13 +34,11 @@ Exemplos de prompts: <br>
   O Notebook LM não irá analisar a parte visual do documento, e sim a parte textual. É importante ter conhecimento das potencialidades e capacidades da ferramenta a ser utilizada, logo as conformidades de espaçamentos, recuos, tipo de fonte, a formatação de forma geral não será verificada. Outro ponto relevante é a elaboração do comando dado a IA, este deve ser claro, especifico e objetivo, evitar textos genéricos ou que induzam a IA a uma resposta. <br>
 
 # Miniguia de estudos
-Resumo estruturado do assunto:
-
+Resumo estruturado do assunto: <br>
     O que a IA PODE revisar: Cruzamento de dados (citação vs. referência); presença de elementos obrigatórios na string de texto da referência (Autor, Título, Ano, Cidade); coerência textual, ortografia e fluidez; transição de parágrafos. <br>
     O que a IA NÃO PODE revisar: Margens (3cm/2cm), espaçamento entrelinhas, recuo de parágrafo (1,25cm), fontes (Arial/Times), paginação exata. <br>
-    <br>
     
-Glossário: 
+Glossário: <br>
     Citação Direta: Transcrição literal de parte da obra do autor consultado. (Pode ser curta, até 3 linhas, ou longa, com recuo de 4cm). <br>
     Citação Indireta: Texto baseado na obra do autor consultado, escrito com as palavras do pesquisador (paráfrase). <br>
     Referência Bibliográfica: Conjunto padronizado de elementos descritivos retirados de um documento, que permite sua identificação individual ao final do trabalho. <br>
@@ -48,13 +46,10 @@ Glossário:
     Engenharia de prompt: Como criar ou descrever o que se pede para IA de forma a gerar respostas assertivas e satisfatórias. <br>
     <br>
     
-Prompts reutilizáveis:
-
-    Para Validação de Referências (Conferência de Estrutura):
-        "Análise a seção 'Referências' do meu documento. Com base no Manual da ABNT anexado, verifique a estrutura de texto de cada referência. Liste aquelas que estão com a formatação de texto incorreta (ex: ausência de cidade ou editora) e sugira a correção." 
-    
-    Para Cruzamento de Dados (O mais útil):
-        "Cruze as citações do corpo do texto com a bibliografia final. Liste: 1. Quem foi citado mas não referenciado; 2. Quem foi referenciado mas não foi citado no texto."
-   
-    Para Clareza e Coesão:
+Prompts reutilizáveis:<br>
+    Para Validação de Referências (Conferência de Estrutura): <br>
+        "Análise a seção 'Referências' do meu documento. Com base no Manual da ABNT anexado, verifique a estrutura de texto de cada referência. Liste aquelas que estão com a formatação de texto incorreta (ex: ausência de cidade ou editora) e sugira a correção." <br>
+    Para Cruzamento de Dados (O mais útil): <br>
+        "Cruze as citações do corpo do texto com a bibliografia final. Liste: 1. Quem foi citado mas não referenciado; 2. Quem foi referenciado mas não foi citado no texto." <br>
+    Para Clareza e Coesão: <br>
         "Leia o Capítulo 2. Identifique frases que estejam excessivamente longas (mais de 4 linhas) ou parágrafos confusos. Sugira reescritas para tornar a linguagem mais acadêmica, formal e direta, mantendo o sentido original."
