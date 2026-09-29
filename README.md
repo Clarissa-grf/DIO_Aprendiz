@@ -2,14 +2,13 @@
 Desafios da DIO
 # Contexto e Objetivo:
   O tema escolhido para o caderno foi a "Criação de um organizador e revisor para verificação a lógica, o texto e realizar o cruzamento de referências e citações de um trabalho de conclusão de curso". <br>
+  
   O Notebook nasce da necessidade de apoiar na verificação da conformidade principalmente das referências e citações em minha tese de doutorado. <br>
   Explorar a capacidade do NotebookLM de realizar cruzamentos lógicos em textos longos. <br>
   Criar uma base de conhecimento sólida com regras atualizadas da ABNT para guiar a análise da ferramenta.<br>
 # Curadoria de fontes:
-  https://www.youtube.com/watch?v=MpNWft8-9mA   
-  
-  https://www.youtube.com/watch?v=Ps8UhU9vXfQ  
-  
+  https://www.youtube.com/watch?v=MpNWft8-9mA <br>
+  https://www.youtube.com/watch?v=Ps8UhU9vXfQ <br>
   https://tcctranquilo.com.br/formato-abnt-como-utilizar-no-tcc/ <br>
   https://portal.ifce.edu.br/documents/18124/Manual_de_normalizacao_de_trabalhos_acad%C3%AAmicos.pdf <br>
   https://www.gov.br/inpe/pt-br/area-conhecimento/posgraduacao/repositorio-de-arquivos/formato_de_dissertacoes_e_teses-inpe.pdf/@@download/file/Formato_de_dissertacoes_e_teses-INPE.pdf <br>
