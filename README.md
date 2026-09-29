@@ -39,11 +39,11 @@ Resumo estruturado do assunto: <br>
    <br>  O que a IA NÃO PODE revisar: Margens (3cm/2cm), espaçamento entrelinhas, recuo de parágrafo (1,25cm), fontes (Arial/Times), paginação exata. <br>
     
 Glossário: <br>
-    Citação Direta: Transcrição literal de parte da obra do autor consultado. (Pode ser curta, até 3 linhas, ou longa, com recuo de 4cm). <br>
-    Citação Indireta: Texto baseado na obra do autor consultado, escrito com as palavras do pesquisador (paráfrase). <br>
-    Referência Bibliográfica: Conjunto padronizado de elementos descritivos retirados de um documento, que permite sua identificação individual ao final do trabalho. <br>
-    Alucinação de IA: Quando o modelo gera informações incorretas ou sem sentido devido à falta de contexto ou restrição técnica (como pedir para ler metadados visuais de um PDF). <br>
-    Engenharia de prompt: Como criar ou descrever o que se pede para IA de forma a gerar respostas assertivas e satisfatórias. <br>
+<br> Citação Direta: Transcrição literal de parte da obra do autor consultado. (Pode ser curta, até 3 linhas, ou longa, com recuo de 4cm). <br>
+<br> Citação Indireta: Texto baseado na obra do autor consultado, escrito com as palavras do pesquisador (paráfrase). <br>
+<br> Referência Bibliográfica: Conjunto padronizado de elementos descritivos retirados de um documento, que permite sua identificação individual ao final do trabalho. <br>
+<br> Alucinação de IA: Quando o modelo gera informações incorretas ou sem sentido devido à falta de contexto ou restrição técnica (como pedir para ler metadados visuais de um PDF). <br>
+<br> Engenharia de prompt: Como criar ou descrever o que se pede para IA de forma a gerar respostas assertivas e satisfatórias. <br>
     <br>
     
 Prompts reutilizáveis: <br>
