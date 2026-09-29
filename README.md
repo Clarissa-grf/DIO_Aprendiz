@@ -15,7 +15,6 @@ Desafios da DIO
   https://www.overleaf.com/latex/templates/modeloinpe-2022/bytpkdzvmyqk <br>
   http://urlib.net/ibi/8JMKD3MGP8W/SFA8LH <br>
   https://www.gov.br/inpe/pt-br/area-conhecimento/biblioteca/editoracao <br>
-
   Modelo de Tese do INPE <br>
   Livro: Science without laws <br>
   Livro: Craft of Reasearch <br>
@@ -24,13 +23,9 @@ Desafios da DIO
 # Engenharia de Prompts e "Cicatrizes"
 Exemplos de prompts: <br>
     Com base no modelo de tese enviado, converta o arquivo para formato word e crie uma estrutura básica de parágrafos, uma estrutura básica para se empregar na descrição de tabelas, imagens e mapas. Crie ainda dentro da estrutura dos parágrafos uma base padronizada para o desenvolvimento das ideias, sua análise e conclusão. <br>
-
     Com base no documento da tese enviado, realize a referenciação das imagens, siglas e tabelas em sumário especifico. <br>
-    
     Avalie se as referências bibliográficas foram apresentadas corretamente e realize a conferência destas referências no GoogleScholar.[Modelo tese.pdf](https://github.com/user-attachments/files/32778808/Modelo.tese.pdf) <br>
-    
     Atue como um revisor acadêmico rigoroso. Com base no (documento 01) e nas (ABNT N.xxx ), leia o documento (documento a ser analisado). Cruze todas as citações feitas no corpo do texto com a lista de referências ao final do documento. Gere uma tabela com duas colunas: 1. Autores citados no texto mas que faltam na referência; 2. Referências listadas ao final mas que não foram citadas no texto. <br>
-    
   O Notebook LM não irá analisar a parte visual do documento, e sim a parte textual. É importante ter conhecimento das potencialidades e capacidades da ferramenta a ser utilizada, logo as conformidades de espaçamentos, recuos, tipo de fonte, a formatação de forma geral não será verificada. Outro ponto relevante é a elaboração do comando dado a IA, este deve ser claro, especifico e objetivo, evitar textos genéricos ou que induzam a IA a uma resposta. <br>
 
 # Miniguia de estudos
